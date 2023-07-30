@@ -1,5 +1,8 @@
 # Natural-Image-Classifier
 
+Built a custom complex CNN Image Classifier model for the Kaggle Natural Images dataset which contains 6,899 images from 8 distinct classes compiled from various sources.
+
+
 # How To Run 
 
               1. Go to Kaggle https://www.kaggle.com/
